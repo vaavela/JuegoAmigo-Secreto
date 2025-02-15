@@ -11,6 +11,9 @@ Un sencillo juego de Amigo Secreto donde los jugadores ingresan nombres y el sis
 Presiona "Sortear amigo" para obtener un nombre al azar.
 Si el usuario quiere volver a jugar deberá presionar el boton "Reiniciar Juego".
 
+AUTORES
+-Valentina Velasquez Claros. 
+
 # Tecnologías utilizadas
 -HTML,CSS,JavaScript
 
